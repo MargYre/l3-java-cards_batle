@@ -14,3 +14,10 @@ Créer une classe Bataille qui contiendra le main
 2. Initialise un paquet de cartes et le mélange aléatoirement (Math.random)
 3. Effectue une boucle de jeu en affichant les scores (System.out.println)
 4. Affiche le vainqueur de la partie
+
+# Executer le programme
+```bash
+    cd devoir_a_rendre
+    javac battle/*.java
+    java battle.Battle
+```
